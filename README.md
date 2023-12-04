@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Galuh
 - 👀 I’m interested in Data Science and Data Analyst
-- 🌱 I’m currently learning NLP
+- 🌱 I’m currently looking for a job
 - 📫 How to reach me https://linkedin.com/in/galuhsapt
 
 <!---
